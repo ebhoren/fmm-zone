@@ -1,0 +1,21 @@
+{
+  "name": "fmm-zone",
+  "description": "Grunt plugin to manage FMM zones assets",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dominic Mercier",
+    "email": "dominic@dominic-mercier.com",
+    "url": "http://www.dominic-mercier.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebhoren/fmm-zone.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "easyimage": "~0.1.3",
+    "node-atf": "0.0.1"
+  }
+}
